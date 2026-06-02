@@ -90,7 +90,6 @@ section{
 #home img{
   width: 18vw;
   border-radius: 50%;
-  border-color: #F48EC3;
   margin-top: 3em;
 }
 .info-box{
@@ -155,13 +154,13 @@ section{
   color: #735751;
   opacity: 0.8;
 }
-.talen{
+.vaardigheden{
   display: flex;
   text-align: left;
   gap: 1.5em;
 }
-.talen{
-  font-size: 1.3em;
+.vaardigheden{
+  font-size: 1.2em;
   font-weight: 500;
   display: flex;
   flex-direction: column;
@@ -169,18 +168,18 @@ section{
   opacity: 0.8;
   align-items: baseline;
 }
-.talen p span{
+.vaardigheden p span{
   display: flex;
   align-items: center;
   gap: 0.5em;
   font-size: 1.3em;
   transition: 0.3s ease-in-out;
 }
-.talen p span:hover{
+.vaardigheden p span:hover{
   transform: translate(10px);
   color: palevioletred;
 }
-.talen p i{
+.vaardigheden p i{
   font-size: 1em;
 }
 .about-box h2{
@@ -189,7 +188,7 @@ section{
 .about-box h3{
   font-size: 2em;
 }
-.vaardigheden-info{
+.opleidingen-info{
   display: flex;
   align-items: center;
   justify-content: center;
