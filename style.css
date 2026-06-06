@@ -44,7 +44,7 @@ nav ul a:hover{
 .logo{
   font-size: 2em;
   color: white;
-  font-weight: 600;
+  font-weight: 500;
   opacity: 0.8;
   transition: 0.2s ease-in-out;
 }
