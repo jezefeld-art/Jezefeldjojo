@@ -154,6 +154,11 @@ section{
   color: #735751;
   opacity: 0.8;
 }
+.responsive-video{
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+}
 .vaardigheden{
   display: flex;
   text-align: left;
