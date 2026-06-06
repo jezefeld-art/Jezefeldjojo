@@ -5,7 +5,7 @@
   text-decoration: none;
   list-style: none;
   scroll-behavior: smooth;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
 }
 :root{
   --background: #fffffe;
