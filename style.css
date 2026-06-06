@@ -5,7 +5,20 @@
   text-decoration: none;
   list-style: none;
   scroll-behavior: smooth;
-  font-family: 'Poppins';
+}
+@font-face {
+    font-family: "RobotoSlab";
+    src: url("RobotoSlab-VariableFont_wght[1].ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+p{
+    font-size: 1em;
+    font-family: "RobotoSlab";
+    color: #735751;
+    line-height: 1.5;
+    font-weight: 400;
+     
 }
 :root{
   --background: #fffffe;
