@@ -150,13 +150,6 @@ section{
 .about-box h1{
   font-size: 5em;
 }
-.vid video {
-    width: 100%;
-    height: auto;
-    border: 7px solid var(--second-background);
-    border-radius: 10px;
-    transition: border 0.5s ease-in-out;
-}
 .about-box p{
   color: #735751;
   opacity: 0.8;
